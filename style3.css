@@ -49,3 +49,8 @@ footer{
 
     
 }
+@media (min-width: 900px) {
+    .facet_sidebar {
+      display: none;
+    }
+}
