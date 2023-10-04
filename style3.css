@@ -49,6 +49,10 @@ footer{
 
     
 }
+.page_da_portifolio_link:hover{
+    background-color: black;
+    color: white
+}
 @media (min-width: 900px) {
     .facet_sidebar {
       display: none;
